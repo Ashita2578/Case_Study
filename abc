@@ -1,0 +1,5 @@
+ <div>
+    <label>OUTPUT ON MobiScan</label><br>
+    <span><p>Name Of Object:</p> <label id="object_name"></label></span>
+    <span><p>Accuracy Of Result :</p> <label id="object_name"></label></span>
+  </div>
